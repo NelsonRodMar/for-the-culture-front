@@ -14,6 +14,7 @@ const GITHUB_LINK = `https://github.com/NelsonRodMar/for-the-culture`;
 const CONTRACT_ADDRESS = {
         "Base": "0xB1379C5041c5cA4C222388429Ed5EFA22C9BBdE7", // Base
         "Scroll": "0x3374Eb14b0293D51756f6865a7715D7699b53693", // Scroll
+        "Linea": "0xd6cdE7b19bc4BDd3a1784F43f675E268639621B6", // Linea
     }
 ;
 let chainId = '';
