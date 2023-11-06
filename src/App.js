@@ -306,6 +306,10 @@ const App = () => {
                             <li>Scroll : <a
                                 href="https://scrollscan.com/address/0x3374eb14b0293d51756f6865a7715d7699b53693"
                                 target="_blank">0x3374eb14b0293d51756f6865a7715d7699b53693</a></li>
+
+                            <li>Linea : <a
+                                href="https://lineascan.build/address/0xd6cde7b19bc4bdd3a1784f43f675e268639621b6"
+                                target="_blank">0xd6cde7b19bc4bdd3a1784f43f675e268639621b6</a></li>
                         </ul>
                     </p>
                 </div>
